@@ -1,10 +1,10 @@
 ﻿# Site settings
-title: tianmg Blog
+title: TianMG Blog 
 SEOTitle: 田梦国的博客 | Tianmg Blog
 header-img: img/奥黛丽.jpg
 email: 2294177001@qq.com
 description: "关于前端与设计、黑客与画家 | 田梦国，Web & Mobile Lover，Front-End Engineer，UX Designer | 这里是 @Tianmg 田梦国 的个人博客，与你一起发现更大的世界。"
-keyword: "田梦国, tianmg田梦国, tianmg,田梦国的博客, mianmg Blog, 博客, 个人网站, 互联网, 前端, 设计, 产品"
+keyword: "田梦国, tianmg田梦国, tianmg,田梦国的博客, Tianmg Blog, 博客, 个人网站, 互联网, 前端, 设计, 产品"
 url: "https://tianmg.top"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
