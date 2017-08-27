@@ -1,7 +1,7 @@
 ﻿# Site settings
 title: Tianmg Blog
 SEOTitle: 田梦国的博客 | Tianmg Blog
-header-img: img/home-bg.jpg
+header-img: img/ao.jpg
 email: 2294177001@qq.com
 description: "关于前端与设计、黑客与画家 | 田梦国，Web & Mobile Lover，Front-End Engineer，UX Designer | 这里是 @Tianmg 田梦国 的个人博客，与你一起发现更大的世界。"
 keyword: "田梦国, tianmg田梦国, tianmg,田梦国的博客, Tianmg Blog, 博客, 个人网站, 互联网, 前端, 设计, 产品"
@@ -12,10 +12,10 @@ baseurl: ""                             # for example, '/blog' if your blog host
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
+weibo_username:     tianmgpro
+zhihu_username:     tianmgpro
+github_username:    tianmgpro
+twitter_username:   tianmgpro
 #facebook_username:  huxpro
 # linkedin_username:  firstname-lastname-idxxxx
 
