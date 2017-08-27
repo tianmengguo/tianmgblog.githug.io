@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      "饿了么的 PWA 升级实践"
-subtitle:   "Upgrading Ele.me to Progressive Web App"
-date:       2017-07-12 12:00:00
-author:     "Hux"
-header-img: "img/in-post/post-eleme-pwa/eleme-at-io.jpg"
+title:      "TianMG发表的第一篇博客"
+subtitle:   "The first blog published by TianMG"
+date:       2017-08-27 10:40:00
+author:     "田梦国"
+header-img: "img/in-post/post-eleme-pwa/骑行.jpg"
 header-mask: 0.3
 catalog:    true
 tags:
